@@ -11,6 +11,7 @@ SubDig is an advanced subdomain enumeration tool for penetration testing written
 - Fast and efficient with concurrent operations
 
 ## Installation
+go install github.com/yourusername/subdig/cmd/subdig@latest
 
 ### From Source
 
